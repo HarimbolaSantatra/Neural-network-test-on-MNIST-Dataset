@@ -12,6 +12,9 @@ These are the main resource I used:
 - datasets: contain the MNIST datasets (train and test)
 - mnist.py: main python file
 
+### Current Issue
+Train file is currently missing due to its size. The reader can refer to link above to download the full datasets from Kaggle.
+
 ### Result and Improvement
 Currently, test accuracy is around 75%. <br>Later improvement may involve :
 - tinkering of the learning rate
