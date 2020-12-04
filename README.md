@@ -6,10 +6,11 @@ It is based on the book _Make Your Own Neural Network_ by _Tariq Rashid_.
 These are the main resource I used:
 - _Make Your Own Neural Network_ by _Tariq Rashid_. [The book repository.](https://github.com/makeyourownneuralnetwork/makeyourownneuralnetwork)
 - [The MNIST Dataset from Kaggle](https://www.kaggle.com/oddrationale/mnist-in-csv)
+- Python library: [Numpy](https://pypi.org/project/numpy/) and [Scipy](https://pypi.org/project/scipy/) (optional)
+
 ### Directory
 - datasets: contain the MNIST datasets (train and test)
 - mnist.py: main python file
-- Python library: [Numpy](https://pypi.org/project/numpy/) and [Scipy](https://pypi.org/project/scipy/) (optional)
 
 ### Result and Improvement
 Currently, test accuracy is around 75%. <br>Later improvement may involve :
